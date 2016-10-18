@@ -1,4 +1,5 @@
 #!/bin/sh
+# push from local
 
 cd ~/git/dictionary/
 echo "SUMMARY"
